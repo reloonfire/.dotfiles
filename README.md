@@ -15,9 +15,9 @@
         .oossssso-````/ossssss+`         Theme: Breeze Dark [KDE], Adwaita [GTK2], Breeze [GTK3] 
        -osssssso.      :ssssssso.        Icons: Papirus-Dark [KDE], Adwaita [GTK2], Papirus-Dark [GTK3] 
       :osssssss/        osssso+++.       Terminal: konsole 
-     /ossssssss/        +ssssooo/- 
-   `/ossssso+/:-        -:/+osssso+- 
-  `+sso+:-`                 `.-/+oso:
+     /ossssssss/        +ssssooo/-       CPU: Intel i5-3570K (4) @ 3.800GHz 
+   `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA GeForce GTX 1050 Ti 
+  `+sso+:-`                 `.-/+oso:    Memory: 1624MiB / 16008MiB 
  `++:.                           `-/+/
- .`                                 `/                           
+ .`                                 `/                                                    
  ```
