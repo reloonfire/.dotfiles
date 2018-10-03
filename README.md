@@ -21,3 +21,12 @@
  `++:.                           `-/+/
  .`                                 `/                                                    
  ```
+###### > speedtest
+_Ping ms_
+  **1**
+_Download Mbps_
+  **932.70**
+_Upload Mbps_
+  **288.22**
+
+_Link to speedtest [here](http://www.speedtest.net/result/7676056184)_
