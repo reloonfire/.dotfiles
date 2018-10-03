@@ -1,5 +1,6 @@
 # .dotfiles
 ## MY OS
+```
                    -`                    reloonfire@arch 
                   .o+`                   --------------- 
                  `ooo/                   OS: Arch Linux x86_64 
@@ -19,4 +20,4 @@
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/                           
-
+ ```
