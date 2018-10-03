@@ -16,6 +16,7 @@
       :osssssss/        osssso+++.       Terminal: konsole 
      /ossssssss/        +ssssooo/-       CPU: Intel i5-3570K (4) @ 3.800GHz 
    `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA GeForce GTX 1050 Ti 
-  `+sso+:-`                 `.-/+oso:    Memory: 16008MiB 
+  `+sso+:-`                 `.-/+oso:    Memory: 1624MiB / 16008MiB 
  `++:.                           `-/+/
- .`                                 `/   
+ .`                                 `/                           
+
