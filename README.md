@@ -1,5 +1,5 @@
 # .dotfiles
-## MY OS
+###### > neofetch
 ```
                    -`                    reloonfire@arch 
                   .o+`                   --------------- 
